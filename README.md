@@ -1,6 +1,6 @@
 ### Welcome!
 
-![Profile views](https://gpvc.arturio.dev/[pystorage])
+![Profile views](https://gpvc.arturio.dev/pystorage)(https://github.com/pystorage)
 
 <!--
 **pystorage/pystorage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
